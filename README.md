@@ -1,5 +1,5 @@
 [![Portada-Perfil.png](https://i.postimg.cc/zfRRhkGg/Portada-Perfil.png)](https://postimg.cc/wtgv8LJq)
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 ## Hi there 👋
 
 <!--
