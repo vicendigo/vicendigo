@@ -1,9 +1,11 @@
-[![PortadaPerfil.png](https://i.postimg.cc/zfRRhkGg/PortadaPerfil.png)](https://postimg.cc/wtgv8LJq)
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
-## Hi there 👋
-
-
 ![PortadaPerfil](https://github.com/user-attachments/assets/e9875ba5-c9ef-4507-99e3-0c62f4db2282)
+## DESAFÍO PROFESIONAL ACTUAL: ANALISTA DE DATOS
+# HOLA MI AMIGO, BIENVENID@ A MI UNIVERSO DIGITAL
+
+### acerca de mi
+Para resultarte interesante la lectura, te situaré en tiempo en que te comento mis aptitudes...Noviembre de 2024... let's start 
+
+
 <!--
 **vicendigo/vicendigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
