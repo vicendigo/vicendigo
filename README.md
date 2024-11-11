@@ -1,9 +1,9 @@
 ![PortadaPerfil](https://github.com/user-attachments/assets/e9875ba5-c9ef-4507-99e3-0c62f4db2282)
 ## DESAFÍO PROFESIONAL ACTUAL: ANALISTA DE DATOS
-# HOLA MI AMIGO, BIENVENID@ A MI UNIVERSO DIGITAL
+# HOLA MI AMIGO, BIENVENID@
 
 ### acerca de mi
-Para resultarte interesante la lectura, te situaré en tiempo en que te comento mis aptitudes...Noviembre de 2024... let's start 
+Para arrancar...soy Experto en Lenguaje Sql, domino las sentencias básicas y las complejas, además tengo basta experiencia en T-SQL.
 
 
 <!--
